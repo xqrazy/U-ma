@@ -99,7 +99,7 @@ SpeedTextBox.TextColor3 = Color3.fromRGB(255, 255, 255)
 SpeedTextBox.TextScaled = true
 
 game:GetService("StarterGui"):SetCore("SendNotification", {
-    Title = "Fly Script",
+    Title = "xqrazy",
     Text = "E: Uçma | Shift: Gizler | Hızı ayarlama",
     Duration = 5,
 })
